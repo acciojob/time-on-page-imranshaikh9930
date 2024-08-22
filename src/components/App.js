@@ -16,7 +16,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
-        <h1>Imran</h1>
+   
         <p>You've been on this page for {sec} seconds</p>
     </div>
   )
